@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyGoogleImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Поиск</string>
+    <string name="api_url">https://www.googleapis.com/customsearch/v1</string>
+    <string name="cx_api_key">010222722517305952459:lhb__tpo-7s</string>
+    <string name="api_key">AIzaSyCExogJ92CX2jaZuwWUtgJrdwffliJz22g</string>
+    <string name="api_key2">AIzaSyAIRpsS_dlG3cYi93m5offq_v3PjTvawEw</string>
+    <string name="title_activity_datails">Детали</string>
+</resources>
